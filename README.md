@@ -50,7 +50,7 @@
   <p>O bloco __name__ == "__main__" verifica se o arquivo está sendo executado diretamente (não importado como um módulo).</p>
   <p>Se o arquivo estiver sendo executado diretamente, a função menu() é chamada para iniciar o programa.</p>
  
-   <h1>Arquivo clientes.py</h1>
+   <h1>Arquivo functions_clientes</h1>
 
   <h2>Função menu_clientes():</h2>
   <p>A função exibe um menu para o gerenciamento de clientes. O menu apresenta as seguintes opções:</p>
@@ -105,7 +105,7 @@
 
   <p>É importante ressaltar que, para que o código funcione corretamente, o arquivo "pacientes.csv" deve estar presente no mesmo diretório do script Python.</p>
   
-  <h1>Arquivo consultas.py</h1>
+  <h1>Arquivo functions_consultas.py</h1>
 
 <h2>Importação de bibliotecas:</h2>
 <pre><code>from datetime import datetime</code></pre>
@@ -132,7 +132,7 @@
         <p>A função busca no arquivo "consultas.csv" as consultas agendadas para o CPF informado e retorna uma lista com os agendamentos encontrados.</p>
         <p>Além disso, o usuário tem a opção de imprimir os recibos das consultas, caso deseje.</p>
     </li>
-    <li>
+    <li> 
         <h3>cancelar_consulta()</h3>
         <p>Cancela uma consulta agendada para um CPF específico.</p>
         <p>O usuário informa um CPF e a função verifica se existe uma consulta agendada para esse CPF.</p>
