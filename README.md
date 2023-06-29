@@ -1,10 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <h1>Documentação do Código Python<h1>
+  <h1>Documentação do Código Python</h1>
       <h1>Código desenvolvido para sistema de uma clínica médica</h1>
     <p>O seguinte código foi desenvolvido como parte de um trabalho acadêmico na disciplina de Introdução à Programação, no curso de Engenharia Elétrica na UFCG. O objetivo do código é implementar funcionalidades básicas para um sistema de uma clínica médica.</p>
-    <h2>Parte de "Clientes"</h2>
+    <p>Cada uma dessas partes é composta por diversas funções que contribuem para o funcionamento completo do sistema.</p>
+    <h1>Como Testar: </h1>
+    <h2>Para testar o código a seguir, é necessário copiar os arquivos.py e as duas planilhas existentes dos arquivos. Em seguida, execute o arquivo main.py em seu compilador e teste as funcionalidades!<h2>
+   
+</head>
+<body>
+  <h1>Funcionabilidades</h1>
+  <h2>Parte de "Clientes"</h2>
     <p>Na parte de "Clientes", temos as seguintes funcionalidades:</p>
     <ul>
         <li>Cadastrar novos pacientes</li>
@@ -19,12 +26,6 @@
         <li>Consultar agendamentos</li>
         <li>Voltar</li>
     </ul>
-    <p>Cada uma dessas partes é composta por diversas funções que contribuem para o funcionamento completo do sistema.</p>
-    <h3>Para testar o código a seguir, é necessário copiar os arquivos.py e as duas planilhas existentes dos arquivos. Em seguida, execute o arquivo main.py em seu compilador e teste as funcionalidades!</h3>
-   
-</head>
-<body>
- 
   <h1>Explicação dos Arquivos: </h1>
   <h2>Arquivo main.py</h2>
 
